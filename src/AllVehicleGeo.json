@@ -1,0 +1,1404 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.6031866,
+                    14.076995
+                ]
+            },
+            "properties": {
+                "xsense_imei": "868899043975164",
+                "driver_id": 1,
+                "driver_name": "ชื่อคนขับรถรางหรือรถกอฟล์ คันที่1",
+                "driver_license": "NSTDA-Tram1",
+                "trip_name": "รถบริการภายใน NSTDA",
+                "trip_code": "NSTDA-0",
+                "trip_id": 1,
+                "last_position": "0101000020E6100000AB18F89B9A2659403AE97DE36B272C40",
+                "speed": 5,
+                "heading": 77.1,
+                "type_lines": "L",
+                "vehicle_type": 2,
+                "type_name": "รถราง",
+                "last_update": "Fri Dec 18 2020 17:49:06 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.6045166,
+                    14.076045
+                ]
+            },
+            "properties": {
+                "xsense_imei": "863003042110882",
+                "driver_id": 2,
+                "driver_name": "เฉลิมชัย (สาย 1)",
+                "driver_license": "32-4567",
+                "trip_name": "รถบริการสาย 1 ศรีนครินทร์ - สวทช.",
+                "trip_code": "NSTDA-1",
+                "trip_id": 2,
+                "last_position": "0101000020E6100000E7B86466B0265940740CC85EEF262C40",
+                "speed": 0,
+                "heading": 33.8,
+                "type_lines": "L",
+                "vehicle_type": 1,
+                "type_name": "รถบัสรับส่งพนักงาน",
+                "last_update": "Mon Dec 21 2020 16:08:16 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.71318,
+                    13.9617616
+                ]
+            },
+            "properties": {
+                "xsense_imei": "868899043974985",
+                "driver_id": 3,
+                "driver_name": "ละมัย (สาย 2)",
+                "driver_license": "32-8744",
+                "trip_name": "รถบริการสาย 2 สวทช - รัชดา",
+                "trip_code": "NSTDA-2",
+                "trip_id": 3,
+                "last_position": "0101000020E6100000520ABABDA42D5940E71835046CEC2B40",
+                "speed": 85,
+                "heading": 181.1,
+                "type_lines": "L",
+                "vehicle_type": 1,
+                "type_name": "รถบัสรับส่งพนักงาน",
+                "last_update": "Mon Dec 21 2020 17:55:39 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.6200066,
+                    13.845275
+                ]
+            },
+            "properties": {
+                "xsense_imei": "868899046735748",
+                "driver_id": 4,
+                "driver_name": "พิชัย (สาย 3)",
+                "driver_license": "32-3999",
+                "trip_name": "รถบริการสาย 3 รามอินทรา - สวทช.",
+                "trip_code": "NSTDA-3",
+                "trip_id": 4,
+                "last_position": "0101000020E610000077932930AE275940B84082E2C7B02B40",
+                "speed": 0,
+                "heading": 218.3,
+                "type_lines": "L",
+                "vehicle_type": 1,
+                "type_name": "รถบัสรับส่งพนักงาน",
+                "last_update": "Mon Dec 21 2020 23:37:42 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.6044883,
+                    14.0769633
+                ]
+            },
+            "properties": {
+                "xsense_imei": "863003042093559",
+                "driver_id": 5,
+                "driver_name": "ทวี (สาย 4)",
+                "driver_license": "32-4040",
+                "trip_name": "รถบริการสาย 4 โยธี - สวทช.",
+                "trip_code": "NSTDA-4",
+                "trip_id": 5,
+                "last_position": "0101000020E610000023D4B1EFAF26594006FCD0BB67272C40",
+                "speed": 0,
+                "heading": 356.9,
+                "type_lines": "L",
+                "vehicle_type": 1,
+                "type_name": "รถบัสรับส่งพนักงาน",
+                "last_update": "Thu Dec 17 2020 12:24:47 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.6045183,
+                    14.076415
+                ]
+            },
+            "properties": {
+                "xsense_imei": "863003042092676",
+                "driver_id": 6,
+                "driver_name": "นพดล (สาย 5)",
+                "driver_license": "32-4545",
+                "trip_name": "รถบริการสาย 5 โยธี - สวทช.ผ่านยิบซั่ม",
+                "trip_code": "NSTDA-5",
+                "trip_id": 6,
+                "last_position": "0101000020E61000005815866DB026594002D9EBDD1F272C40",
+                "speed": 0,
+                "heading": 46.9,
+                "type_lines": "L",
+                "vehicle_type": 1,
+                "type_name": "รถบัสรับส่งพนักงาน",
+                "last_update": "Thu Nov 05 2020 10:06:02 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.44839,
+                    13.75238
+                ]
+            },
+            "properties": {
+                "xsense_imei": "863003042109876",
+                "driver_id": 7,
+                "driver_name": "เทียน (สาย 6)",
+                "driver_license": "32-8743",
+                "trip_name": "รถบริการสาย 6 เดอะมอลล์(บางแค) - สวทช.",
+                "trip_code": "NSTDA-6",
+                "trip_id": 7,
+                "last_position": "0101000020E61000009F76F86BB21C594037548CF337812B40",
+                "speed": 0,
+                "heading": 218.6,
+                "type_lines": "L",
+                "vehicle_type": 1,
+                "type_name": "รถบัสรับส่งพนักงาน",
+                "last_update": "Mon Dec 21 2020 23:38:57 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.61709,
+                    13.8353666
+                ]
+            },
+            "properties": {
+                "xsense_imei": "863003042093526",
+                "driver_id": 8,
+                "driver_name": "บุญล้อม (สาย 7)",
+                "driver_license": "32-4888",
+                "trip_name": "รถบริการสาย 7 กฟผ - สวทช.",
+                "trip_code": "NSTDA-7",
+                "trip_id": 8,
+                "last_position": "0101000020E6100000132C0E677E2759406857C62BB5AB2B40",
+                "speed": 0,
+                "heading": 13,
+                "type_lines": "L",
+                "vehicle_type": 1,
+                "type_name": "รถบัสรับส่งพนักงาน",
+                "last_update": "Wed Nov 11 2020 05:10:57 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.61634,
+                    13.8350766
+                ]
+            },
+            "properties": {
+                "xsense_imei": "863003042080671",
+                "driver_id": 9,
+                "driver_name": "ณรงค์ (สาย 10)",
+                "driver_license": "32-4999",
+                "trip_name": "รถบริการสาย 10 พระประแดง - สวทช.",
+                "trip_code": "NSTDA-10",
+                "trip_id": 9,
+                "last_position": "0101000020E6100000DDCD531D722759404C4FFD288FAB2B40",
+                "speed": 0,
+                "heading": 216,
+                "type_lines": "L",
+                "vehicle_type": 1,
+                "type_name": "รถบัสรับส่งพนักงาน",
+                "last_update": "Mon Dec 21 2020 23:45:44 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.6112816,
+                    13.8663883
+                ]
+            },
+            "properties": {
+                "xsense_imei": "863003042092601",
+                "driver_id": 10,
+                "driver_name": "สาคร (สาย 11)",
+                "driver_license": "32-9777",
+                "trip_name": "รถบริการสาย 11 เดอะมอลล์(ท่าพระ) - สวทช.",
+                "trip_code": "NSTDA-11",
+                "trip_id": 10,
+                "last_position": "0101000020E61000006129DC3C1F2759402A464C3F97BB2B40",
+                "speed": 44,
+                "heading": 119.9,
+                "type_lines": "L",
+                "vehicle_type": 1,
+                "type_name": "รถบัสรับส่งพนักงาน",
+                "last_update": "Fri Dec 18 2020 23:52:03 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.6031633,
+                    14.0770283
+                ]
+            },
+            "properties": {
+                "xsense_imei": "868899043966510",
+                "driver_id": 11,
+                "driver_name": "ชื่อคนขับรถรางหรือรถกอฟล์ คันที่2",
+                "driver_license": "NSTDA-Tram2",
+                "trip_name": "รถบริการภายใน NSTDA",
+                "trip_code": "NSTDA-0",
+                "trip_id": 1,
+                "last_position": "0101000020E610000070E93D3A9A265940A3BBDA4070272C40",
+                "speed": 0,
+                "heading": 129.6,
+                "type_lines": "L",
+                "vehicle_type": 2,
+                "type_name": "รถราง",
+                "last_update": "Fri Dec 18 2020 12:16:56 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.40626,
+                    14.0317133
+                ]
+            },
+            "properties": {
+                "xsense_imei": "863003042093518",
+                "driver_id": 12,
+                "driver_name": "ประวิตร นามเสน (สาย 8/1)",
+                "driver_license": "ฮร 9403",
+                "trip_name": "รถบริการสาย 8/1 นนทบุรี - สวทช.",
+                "trip_code": "NSTDA-8/1",
+                "trip_id": 11,
+                "last_position": "0101000020E6100000126BF129001A59404CB2C4B93C102C40",
+                "speed": 0,
+                "heading": 201.8,
+                "type_lines": "L",
+                "vehicle_type": 3,
+                "type_name": "รถตู้รับส่งพนังงาน",
+                "last_update": "Wed Dec 23 2020 08:30:16 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5782283,
+                    13.8799966
+                ]
+            },
+            "properties": {
+                "xsense_imei": "868899046769820",
+                "driver_id": 13,
+                "driver_name": "ศิริวัฒน์ คำแก้ว (สาย 8/2)",
+                "driver_license": "ฮล 1365",
+                "trip_name": "รถบริการสาย 8/2 นนทบุรี - สวทช.",
+                "trip_code": "NSTDA-8/2",
+                "trip_id": 12,
+                "last_position": "0101000020E6100000CA8745B101255940B12E13EA8EC22B40",
+                "speed": 10,
+                "heading": 42.5,
+                "type_lines": "L",
+                "vehicle_type": 3,
+                "type_name": "รถตู้รับส่งพนังงาน",
+                "last_update": "Wed Dec 23 2020 10:39:18 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.47972,
+                    13.8455
+                ]
+            },
+            "properties": {
+                "xsense_imei": "863003042111609",
+                "driver_id": 14,
+                "driver_name": "ชาติชาย ดีวุ่น (สาย 8/3)",
+                "driver_license": "พ-9634",
+                "trip_name": "รถบริการสาย 8/3 นนทบุรี - สวทช.",
+                "trip_code": "NSTDA-8/3",
+                "trip_id": 13,
+                "last_position": "0101000020E61000002DCF83BBB31E594037894160E5B02B40",
+                "speed": 0,
+                "heading": 95.7,
+                "type_lines": "L",
+                "vehicle_type": 3,
+                "type_name": "รถตู้รับส่งพนังงาน",
+                "last_update": "Tue Dec 22 2020 18:46:29 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.602515,
+                    14.0787033
+                ]
+            },
+            "properties": {
+                "xsense_imei": "863003042110296",
+                "driver_id": 15,
+                "driver_name": "อุทิศ มายา (สาย 9/1)",
+                "driver_license": "อ-1760",
+                "trip_name": "รถบริการสาย 9/1 พาต้าปิ่นเกล้า-สวทช.",
+                "trip_code": "NSTDA-9/1",
+                "trip_id": 14,
+                "last_position": "0101000020E61000005D16139B8F265940B02C87CC4B282C40",
+                "speed": 0,
+                "heading": 6.7,
+                "type_lines": "L",
+                "vehicle_type": 3,
+                "type_name": "รถตู้รับส่งพนังงาน",
+                "last_update": "Mon Dec 21 2020 11:46:59 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.401765,
+                    13.96212
+                ]
+            },
+            "properties": {
+                "xsense_imei": "868899046756249",
+                "driver_id": 16,
+                "driver_name": "ชาติชาย โพธิ์กลัด (สาย 9/2)",
+                "driver_license": "1นก-8156",
+                "trip_name": "รถบริการสาย 9/2 พาต้าปิ่นเกล้า-สวทช.",
+                "trip_code": "NSTDA-9/2",
+                "trip_id": 15,
+                "last_position": "0101000020E61000005BEB8B84B6195940B1A71DFE9AEC2B40",
+                "speed": 41,
+                "heading": 323.8,
+                "type_lines": "L",
+                "vehicle_type": 3,
+                "type_name": "รถตู้รับส่งพนังงาน",
+                "last_update": "Fri Dec 18 2020 19:22:12 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.3115033,
+                    13.675255
+                ]
+            },
+            "properties": {
+                "xsense_imei": "863003042097477",
+                "driver_id": 17,
+                "driver_name": "บรรพต ทวีก้านตรง (สาย 9/3)",
+                "driver_license": "ฮล 4541",
+                "trip_name": "รถบริการสาย 9/3 พาต้าปิ่นเกล้า-สวทช.",
+                "trip_code": "NSTDA-9/3",
+                "trip_id": 16,
+                "last_position": "0101000020E6100000268689ABEF135940C4EBFA05BB592B40",
+                "speed": 0,
+                "heading": 32.7,
+                "type_lines": "L",
+                "vehicle_type": 3,
+                "type_name": "รถตู้รับส่งพนังงาน",
+                "last_update": "Mon Dec 21 2020 23:45:14 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.8093033,
+                    14.0515483
+                ]
+            },
+            "properties": {
+                "xsense_imei": "868899046792822",
+                "driver_id": 18,
+                "driver_name": "ธนาโชติ ชิชติพัทธ์ (สาย 12/1)",
+                "driver_license": "ฮภ 7798",
+                "trip_name": "รถบริการสาย 12/1 รังสิตนครนายก-สวทช.",
+                "trip_code": "NSTDA-12/1",
+                "trip_id": 17,
+                "last_position": "0101000020E6100000DF8211A0CB3359402C54ED89641A2C40",
+                "speed": 0,
+                "heading": 76.1,
+                "type_lines": "L",
+                "vehicle_type": 3,
+                "type_name": "รถตู้รับส่งพนังงาน",
+                "last_update": "Mon Dec 21 2020 21:28:40 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.687475,
+                    14.039885
+                ]
+            },
+            "properties": {
+                "xsense_imei": "868899046789448",
+                "driver_id": 19,
+                "driver_name": "สถาพร แสงสังข์ (สาย 12/2)",
+                "driver_license": "นค 7145",
+                "trip_name": "รถบริการสาย 12/2 รังสิตนครนายก-สวทช.",
+                "trip_code": "NSTDA-12/2",
+                "trip_id": 18,
+                "last_position": "0101000020E610000054742497FF2B5940B13385CE6B142C40",
+                "speed": 49,
+                "heading": 180.1,
+                "type_lines": "L",
+                "vehicle_type": 3,
+                "type_name": "รถตู้รับส่งพนังงาน",
+                "last_update": "Mon Dec 21 2020 17:41:52 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.602575,
+                    14.0786916
+                ]
+            },
+            "properties": {
+                "xsense_imei": "868899046758740",
+                "driver_id": 20,
+                "driver_name": "สรพจน์ สุขเรือน (สาย 12/3)",
+                "driver_license": "ฮร 296",
+                "trip_name": "รถบริการสาย 12/3 รังสิตนครนายก-สวทช.",
+                "trip_code": "NSTDA-12/3",
+                "trip_id": 19,
+                "last_position": "0101000020E6100000C898BB969026594099F0F0434A282C40",
+                "speed": 0,
+                "heading": 269.1,
+                "type_lines": "L",
+                "vehicle_type": 3,
+                "type_name": "รถตู้รับส่งพนังงาน",
+                "last_update": "Mon Dec 21 2020 09:32:44 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.479718,
+                    13.845465
+                ]
+            },
+            "properties": {
+                "xsense_imei": "863003042087072",
+                "driver_id": 21,
+                "driver_name": "*ไพเราะ หมกทอง (สาย14/1)",
+                "driver_license": "ฮง-2951",
+                "trip_name": "รถบริการสาย 14/1 บางกรวยไทรน้อย-สวทช.",
+                "trip_code": "NSTDA-14/1",
+                "trip_id": 20,
+                "last_position": "0101000020E61000005D5320B3B31E594046D3D9C9E0B02B40",
+                "speed": 0,
+                "heading": 114.6,
+                "type_lines": "L",
+                "vehicle_type": 3,
+                "type_name": "รถตู้รับส่งพนังงาน",
+                "last_update": "Wed Oct 07 2020 11:04:41 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.6490183,
+                    13.952085
+                ]
+            },
+            "properties": {
+                "xsense_imei": "863003042109488",
+                "driver_id": 22,
+                "driver_name": "พิรุณฤทธิ์ มาขึ้น (สาย 14/2)",
+                "driver_license": "1นก 3964",
+                "trip_name": "รถบริการสาย 14/2 บางกรวยไทรน้อย-สวทช.",
+                "trip_code": "NSTDA-14/2",
+                "trip_id": 21,
+                "last_position": "0101000020E61000005A400D84892959403A0664AF77E72B40",
+                "speed": 0,
+                "heading": 6.3,
+                "type_lines": "L",
+                "vehicle_type": 3,
+                "type_name": "รถตู้รับส่งพนังงาน",
+                "last_update": "Wed Dec 23 2020 14:07:11 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.60091,
+                    14.079275
+                ]
+            },
+            "properties": {
+                "xsense_imei": "868899046775009",
+                "driver_id": 23,
+                "driver_name": "พีรยุทธ บุญฉิม",
+                "driver_license": "ฮม 9871",
+                "trip_name": "รถบริการสาย 14/3 บางกรวยไทรน้อย-สวทช.",
+                "trip_code": "NSTDA-14/3",
+                "trip_id": 22,
+                "last_position": "0101000020E6100000B875374F75265940E3C798BB96282C40",
+                "speed": 0,
+                "heading": 228.1,
+                "type_lines": "L",
+                "vehicle_type": 3,
+                "type_name": "รถตู้รับส่งพนังงาน",
+                "last_update": "Mon Dec 07 2020 07:32:58 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.602015,
+                    14.0788516
+                ]
+            },
+            "properties": {
+                "xsense_imei": "863003042120634",
+                "driver_id": 24,
+                "driver_name": "ราเชนทร์ มะมิน สาย (สาย 15/1)",
+                "driver_license": "ฮย 6317",
+                "trip_name": "รถบริการสาย 15/1 รามคำแหง-สวทช.",
+                "trip_code": "NSTDA-15/1",
+                "trip_id": 23,
+                "last_position": "0101000020E6100000E42CEC69872659407C79A63C5F282C40",
+                "speed": 0,
+                "heading": 293.6,
+                "type_lines": "L",
+                "vehicle_type": 3,
+                "type_name": "รถตู้รับส่งพนังงาน",
+                "last_update": "Tue Nov 24 2020 11:02:00 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.7127766,
+                    13.95262
+                ]
+            },
+            "properties": {
+                "xsense_imei": "868899046775231",
+                "driver_id": 25,
+                "driver_name": "เกื้ออารี หว่านทอง สาย (สาย 15/2)",
+                "driver_license": "1นก 983",
+                "trip_name": "รถบริการสาย 15/2 รามคำแหง-สวทช.",
+                "trip_code": "NSTDA-15/2",
+                "trip_id": 24,
+                "last_position": "0101000020E6100000A996BE219E2D5940F20703CFBDE72B40",
+                "speed": 0,
+                "heading": 181.3,
+                "type_lines": "L",
+                "vehicle_type": 3,
+                "type_name": "รถตู้รับส่งพนังงาน",
+                "last_update": "Fri Nov 27 2020 17:53:52 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.7207316,
+                    13.754485
+                ]
+            },
+            "properties": {
+                "xsense_imei": "863003042097949",
+                "driver_id": 26,
+                "driver_name": "ธีรวัฒน์ อิ๊สมาแอล (สาย 15/3)",
+                "driver_license": "ฮอ 2957",
+                "trip_name": "รถบริการสาย 15/3 รามคำแหง-สวทช.",
+                "trip_code": "NSTDA-15/3",
+                "trip_id": 25,
+                "last_position": "0101000020E610000066CC6E77202E594027A5A0DB4B822B40",
+                "speed": 85,
+                "heading": 85.8,
+                "type_lines": "L",
+                "vehicle_type": 3,
+                "type_name": "รถตู้รับส่งพนังงาน",
+                "last_update": "Mon Dec 21 2020 09:58:55 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "863003042110288",
+                "driver_id": 30,
+                "driver_name": "มานพ เรืองทอง",
+                "driver_license": "ฮร-786",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 4,
+                "type_name": "รถตู้เช่ารายครั้ง",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "863003042086421",
+                "driver_id": 31,
+                "driver_name": "กรรณิกา โกภูคำ",
+                "driver_license": "ก-4831",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 4,
+                "type_name": "รถตู้เช่ารายครั้ง",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "863003042109413",
+                "driver_id": 32,
+                "driver_name": "วัชกร ชูวงษ์",
+                "driver_license": "ฮย-2328",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 4,
+                "type_name": "รถตู้เช่ารายครั้ง",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "868899046771222",
+                "driver_id": 33,
+                "driver_name": "พรชัย วงษ์ทับซ้าย",
+                "driver_license": "36-0011",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 4,
+                "type_name": "รถตู้เช่ารายครั้ง",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "868899046789844",
+                "driver_id": 34,
+                "driver_name": "วันดี แก้วสว่าง",
+                "driver_license": "ฮร-3083",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 4,
+                "type_name": "รถตู้เช่ารายครั้ง",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "863003042097170",
+                "driver_id": 35,
+                "driver_name": "วิโรจน์ เนื่องบุญมา",
+                "driver_license": "1นก-8485",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 4,
+                "type_name": "รถตู้เช่ารายครั้ง",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "868899046792582",
+                "driver_id": 36,
+                "driver_name": "สุนทร พูนสระน้อย",
+                "driver_license": "ก-4411",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 4,
+                "type_name": "รถตู้เช่ารายครั้ง",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "863003042093112",
+                "driver_id": 37,
+                "driver_name": "ชัยชลิต พานะกุล",
+                "driver_license": "ฮล-2664",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 4,
+                "type_name": "รถตู้เช่ารายครั้ง",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "863003042092098",
+                "driver_id": 38,
+                "driver_name": "ปฐม กัณณิการ์",
+                "driver_license": "ฮม-6700",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 4,
+                "type_name": "รถตู้เช่ารายครั้ง",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "868899046783672",
+                "driver_id": 39,
+                "driver_name": "วีรยุทธ ผลมะขาม",
+                "driver_license": "ฮภ-5008",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 4,
+                "type_name": "รถตู้เช่ารายครั้ง",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "868899046744294",
+                "driver_id": 40,
+                "driver_name": "วิทยา พูนสระน้อย",
+                "driver_license": "ฮล-2672",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 4,
+                "type_name": "รถตู้เช่ารายครั้ง",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "863003042094813",
+                "driver_id": 41,
+                "driver_name": "ณรงค์ชัย ผลมะขาม",
+                "driver_license": "นค-6620",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 4,
+                "type_name": "รถตู้เช่ารายครั้ง",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "868899046757130",
+                "driver_id": 42,
+                "driver_name": "รักษ์พงษ์ โพธิ์แก้ว",
+                "driver_license": "ฮค-5014",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 4,
+                "type_name": "รถตู้เช่ารายครั้ง",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "863003042119404",
+                "driver_id": 43,
+                "driver_name": "วันมงคล แก้วสว่าง",
+                "driver_license": "ฮม-5377",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 4,
+                "type_name": "รถตู้เช่ารายครั้ง",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "868899046795767",
+                "driver_id": 44,
+                "driver_name": "จงกล ดำริห์สระน้อย",
+                "driver_license": "ศ-7243",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 4,
+                "type_name": "รถตู้เช่ารายครั้ง",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "868899046783649",
+                "driver_id": 45,
+                "driver_name": "เชิดชัย แก้วเชียงราก",
+                "driver_license": "5-กผ 953",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 5,
+                "type_name": "รถเก๋งเช่ารายครั้ง",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "868899046772451",
+                "driver_id": 46,
+                "driver_name": "นวพล มากล้น",
+                "driver_license": "4กฒ-9026",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 5,
+                "type_name": "รถเก๋งเช่ารายครั้ง",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.55848,
+                    13.8419133
+                ]
+            },
+            "properties": {
+                "xsense_imei": "863003042124594",
+                "driver_id": 47,
+                "driver_name": "มลเทียร โกมาร",
+                "driver_license": "ฮม-7519",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": "0101000020E610000016DEE522BE235940872293420FAF2B40",
+                "speed": 92,
+                "heading": 22.5,
+                "type_lines": "T",
+                "vehicle_type": 6,
+                "type_name": "รถตู้วิ่งระหว่างอาคาร",
+                "last_update": "Mon Dec 21 2020 13:53:54 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.6009083,
+                    14.0802783
+                ]
+            },
+            "properties": {
+                "xsense_imei": "868899046790784",
+                "driver_id": 48,
+                "driver_name": "วาริชาติ เรียงประดับ",
+                "driver_license": "ฮม-2059",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": "0101000020E610000047191648752659402E28C23C1A292C40",
+                "speed": 17,
+                "heading": 187.7,
+                "type_lines": "T",
+                "vehicle_type": 6,
+                "type_name": "รถตู้วิ่งระหว่างอาคาร",
+                "last_update": "Mon Dec 21 2020 17:03:12 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "868899046756322",
+                "driver_id": 49,
+                "driver_name": "นคร บุญประจง",
+                "driver_license": "1นก-8083",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 7,
+                "type_name": "รถตู้ทั่วไป",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "868899046776692",
+                "driver_id": 50,
+                "driver_name": "อนุชา บรรเทาวงศ์",
+                "driver_license": "1นก-9012",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 7,
+                "type_name": "รถตู้ทั่วไป",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "863003042110221",
+                "driver_id": 51,
+                "driver_name": "ธนภูมิ นุกูลวัฒนะวิชัย",
+                "driver_license": "ฮว-6109",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 7,
+                "type_name": "รถตู้ทั่วไป",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "868899043893615",
+                "driver_id": 52,
+                "driver_name": "วิทัศน์ ยังสีนาค",
+                "driver_license": "ฮพ-9314",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 7,
+                "type_name": "รถตู้ทั่วไป",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "868899046775595",
+                "driver_id": 53,
+                "driver_name": "ศรีลาชัย ตองอบ",
+                "driver_license": "ฮย-4583",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 7,
+                "type_name": "รถตู้ทั่วไป",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "868899043974795",
+                "driver_id": 54,
+                "driver_name": "ชาญวิทย์ สังข์ศิริ",
+                "driver_license": "ฮม-6205",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 7,
+                "type_name": "รถตู้ทั่วไป",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "863003042080754",
+                "driver_id": 55,
+                "driver_name": "นิมิตร นาวารัตน์",
+                "driver_license": "ฮภ-8153",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 7,
+                "type_name": "รถตู้ทั่วไป",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "868899046757841",
+                "driver_id": 56,
+                "driver_name": "ศรายุทธ โดดเทียน",
+                "driver_license": "1นก-1050",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 7,
+                "type_name": "รถตู้ทั่วไป",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "868899046786535",
+                "driver_id": 57,
+                "driver_name": "สุรพงษ์ คำหอมรื่น",
+                "driver_license": "ฮย-4480",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 7,
+                "type_name": "รถตู้ทั่วไป",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.516365,
+                    13.7953816
+                ]
+            },
+            "properties": {
+                "xsense_imei": "863003042110775",
+                "driver_id": 58,
+                "driver_name": "ศักดิ์ดา กล่อมสุภาพ",
+                "driver_license": "ฮย-5984",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": "0101000020E610000023F3C81F0C21594029AECF413C972B40",
+                "speed": 0,
+                "heading": 24.5,
+                "type_lines": "T",
+                "vehicle_type": 7,
+                "type_name": "รถตู้ทั่วไป",
+                "last_update": "Wed Dec 23 2020 14:01:45 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "868899046790396",
+                "driver_id": 59,
+                "driver_name": "นิพนธ์ บุญเปี่ยม",
+                "driver_license": "ฮภ-8869",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 7,
+                "type_name": "รถตู้ทั่วไป",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "863003042110114",
+                "driver_id": 60,
+                "driver_name": "สุทธิชัย ใจรักษ์",
+                "driver_license": "นค-8635",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 7,
+                "type_name": "รถตู้ทั่วไป",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "863003042137752",
+                "driver_id": 61,
+                "driver_name": "วิทยา โรจนกสิกิจ",
+                "driver_license": "ธ-4843",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 7,
+                "type_name": "รถตู้ทั่วไป",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "868899043886163",
+                "driver_id": 62,
+                "driver_name": "ภานุมาศ วิถีพัฒน์",
+                "driver_license": "นค-6199",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 7,
+                "type_name": "รถตู้ทั่วไป",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "xsense_imei": "868899046790008",
+                "driver_id": 63,
+                "driver_name": "ปัทเมศย์ ม่วงหวาน",
+                "driver_license": "นข-5548",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": null,
+                "speed": 0,
+                "heading": 0,
+                "type_lines": "T",
+                "vehicle_type": 7,
+                "type_name": "รถตู้ทั่วไป",
+                "last_update": "waiting to update"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.601605,
+                    14.0776466
+                ]
+            },
+            "properties": {
+                "xsense_imei": "868899046772766",
+                "driver_id": 64,
+                "driver_name": "ภูษิต รุ่งโรจน์",
+                "driver_license": "ฎพ7198",
+                "trip_name": "ระบุเส้นทางใหม่เอง หรือ ไม่ระบุเส้นทาง ",
+                "trip_code": "NNN-NNN-000000",
+                "trip_id": 26,
+                "last_position": "0101000020E61000000C0742B2802659408B4A8F4BC1272C40",
+                "speed": 0,
+                "heading": 165.6,
+                "type_lines": "T",
+                "vehicle_type": 5,
+                "type_name": "รถเก๋งเช่ารายครั้ง",
+                "last_update": "Mon Dec 21 2020 23:45:44 "
+            }
+        }
+    ]
+}
