@@ -1,6 +1,5 @@
 # react-leaflet-sample-demo
 
-<<<<<<< HEAD
 ```
 npm install
 ```
