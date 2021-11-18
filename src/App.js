@@ -82,11 +82,15 @@ function App() {
           </LayersControl.BaseLayer>
 
          	<LayersControl.BaseLayer checked name="Dia">
-						<TileLayer url="https://{s}.basemaps.cartocdn.com/rastertiles/voyager_labels_under/{z}/{x}/{y}{r}.png"/>
+						<TileLayer 
+            attribution='&copy; <a href="#">cartocdn</a>'
+            url="https://{s}.basemaps.cartocdn.com/rastertiles/voyager_labels_under/{z}/{x}/{y}{r}.png"/>
 					</LayersControl.BaseLayer>
 
 					<LayersControl.BaseLayer name="Noite">
-						<TileLayer url="https://{s}.basemaps.cartocdn.com/rastertiles/dark_all/{z}/{x}/{y}.png"/>
+						<TileLayer 
+            attribution='&copy; <a href="#">cartocdn</a>'
+            url="https://{s}.basemaps.cartocdn.com/rastertiles/dark_all/{z}/{x}/{y}.png"/>
 					</LayersControl.BaseLayer>
 
 					<LayersControl.BaseLayer name="ArcGIS">
@@ -95,13 +99,38 @@ function App() {
             url="https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"/>
 					</LayersControl.BaseLayer>
 
-					<LayersControl.BaseLayer  image='./images/logo-title.svg' name="Satélite Google">
+
+          <LayersControl.BaseLayer  image='./images/logo-title.svg' name="Google Hybrid">
 						<TileLayer 
               attribution='&copy; <a href="https://google.com">Google</a>'
-              url="http://mt1.google.com/vt/lyrs=y@221097413&x={x}&y={y}&z={z}"
+              url="http://mt1.googleapis.com/vt?lyrs=y&x={x}&y={y}&z={z}"
             />
 					</LayersControl.BaseLayer>
 
+          <LayersControl.BaseLayer  image='./images/logo-title.svg' name="Google Roadmap">
+						<TileLayer 
+              attribution='&copy; <a href="https://google.com">Google</a>'
+              url="http://mt1.googleapis.com/vt?lyrs=m&x={x}&y={y}&z={z}"
+            />
+					</LayersControl.BaseLayer>
+
+          <LayersControl.BaseLayer  image='./images/logo-title.svg' name="Google Terrain">
+						<TileLayer 
+              attribution='&copy; <a href="https://google.com">Google</a>'
+              url="http://mt1.googleapis.com/vt?lyrs=p&x={x}&y={y}&z={z}"
+            />
+					</LayersControl.BaseLayer>
+
+          {
+          /*  h = roads only
+              m = standard roadmap
+              p = terrain
+              r = somehow altered roadmap
+              s = satellite only
+              t = terrain only
+              y = hybrid */
+          }
+          
       </LayersControl>
         
       <ZoomControl position="bottomright" zoomInText="➕" zoomOutText="➖"  />
